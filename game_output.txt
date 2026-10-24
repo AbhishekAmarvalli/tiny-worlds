@@ -1,0 +1,383 @@
+[2J[0f[2J[0f
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}========================================(...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}   RULE OF LIFE v1.0.0(...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}   A Turn-Based Strategy CLI Game(...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}   Gamified Conway's Game of Life(...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}========================================(...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}    .--.     (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}
+
+(...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}Choose Your Cell Rule Set(...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}
+
+Select the rule set that determines how your cells behave:
+
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}[1](...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	} STANDARD
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}[2](...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	} AGGRESSIVE (counters: lenient, reproductive)
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}[3](...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	} LENIENT (counters: aggressive, overcrowded)
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}[4](...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	} OVERCROWDED (counters: lenient, aggressive)
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}[5](...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	} LONELY (counters: reproductive, standard)
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}[6](...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	} REPRODUCTIVE (counters: lonely, standard)
+
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}[0](...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	} Random Rule
+
+
+  (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}Select rule (0-6): (...arguments_) => {
+		if (arguments_.length === 1) {
+			// eslint-disable-next-line no-implicit-coercion
+			return applyStyle(builder, '' + arguments_[0]);
+		}
+
+		if (arguments_.length === 2) {
+			// The template literal matches `Array#join` coercion (`null` and `undefined` become empty, objects use `toString`) while being faster.
+			return applyStyle(builder, `${arguments_[0] ?? ''} ${arguments_[1] ?? ''}`);
+		}
+
+		return applyStyle(builder, arguments_.join(' '));
+	}
